@@ -1,1 +1,4 @@
-# 28.09
+# REACT-Practice
+exercises from codemu
+
+works on src/works/

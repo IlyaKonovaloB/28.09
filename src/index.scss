@@ -1,0 +1,32 @@
+
+.counterBox {
+  width: fit-content;
+  padding: 30px;
+  background: #000;
+  display: flex;
+  gap: 20px;
+  align-items: center; 
+  color: #fff;
+  
+  .counterText {
+    font-size: 24px;
+  }
+  
+  .counterButton {
+    background-color: rgba(255,255,255,.7);
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+  }
+}
+.body{
+  background-color: #3b00dd;
+} 
+.Users{
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+.s1{
+  margin-top:10px;
+}
